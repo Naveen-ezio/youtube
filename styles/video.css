@@ -64,3 +64,6 @@
  .video-author{
    margin-bottom: 4px;
  }
+.video-pre_div:hover{
+  cursor: pointer;
+ }
